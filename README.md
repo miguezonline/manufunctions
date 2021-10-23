@@ -3,7 +3,5 @@ Funciones
 
 
 
-[this readme](vision/readme.md)
+[Link interno a readme de vision](vision/readme.md)
 
-
-[this readme](manufunctions/vision/readme.md)
